@@ -39,9 +39,34 @@ button.btntickets:hover{border: 2px solid black;
     cursor: pointer;
     margin-bottom: 10px;}
 
-div.knop{width: 200px;
+div.knop{width: 210px;
     border: 2px double rgb(199, 199, 199);
     vertical-align:  top;
     padding:9px;
+    margin-bottom: 10px;
     }
 
+button.btnieuwsbrief{border: 2px solid #D35E46;
+        background-color: #D35E46;
+        color: #FFFFFF;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-bottom: 10px;
+    border-radius: 20px;}
+
+button.btnieuwsbrief:hover{border: 2px solid #924131;
+        background-color: #924131;
+        color: #FFFFFF;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-bottom: 10px;
+    border-radius: 20px;}
+
+    div.knop2{width: 210px;
+        border: 2px double rgb(199, 199, 199);
+        vertical-align:  top;
+        padding:9px;
+        display: inline-block;
+        }
