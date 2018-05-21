@@ -44,6 +44,7 @@ div.knop{width: 210px;
     vertical-align:  top;
     padding:9px;
     margin-bottom: 10px;
+    display: inline-block;
     }
 
 button.btnieuwsbrief{border: 2px solid #D35E46;
