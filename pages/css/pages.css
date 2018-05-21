@@ -31,7 +31,7 @@ button.btntickets{border: 2px solid black;
     cursor: pointer;}
 
 button.btntickets:hover{border: 0px 0px 0px 4px;
-    border-color: rgb(red, green, blue)
+    border-color: rgb(red, green, blue;
     background-color: #000000;
     color: #FFFFFF;
     padding: 14px 28px;
