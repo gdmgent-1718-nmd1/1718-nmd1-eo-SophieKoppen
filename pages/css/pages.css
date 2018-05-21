@@ -30,12 +30,11 @@ button.btntickets{border: 2px solid black;
     font-size: 16px;
     cursor: pointer;}
 
-button.btntickets:hover{border: 0px 0px 0px 4px;
-    border-color: rgb(red, green, blue;
+button.btntickets:hover{border: 2px solid black;
     background-color: #000000;
     color: #FFFFFF;
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
-    text-underline-position: 1px;}
+    text-underline-position: }
 
