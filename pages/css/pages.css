@@ -25,7 +25,7 @@ td.con2{background-color: rgba(0, 140, 255, 0.21)}
 th{padding-right: 10px;}
 h1.con{padding-left: 100px;}
 
-/*styleguide*/
+/*styleguide knoppen*/
 button.btntickets{border: 2px solid black;
     background-color: white;
     color: black;
@@ -98,6 +98,17 @@ div.knop2{width: 210px;
             display: inline-block;
             }
 
+        button.btnkopen{border:2px solid #D35E46;
+            background-color: #D35E46;
+            color: #FFFFFF;
+            padding: 14px 28px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-bottom: 10px;
+
+        }
+
+/*styleguide kleurvlakken*/
 div.kleur1{ width: 120px;
 height: 120px;
 color: white;
