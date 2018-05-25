@@ -107,6 +107,13 @@ div.knop2{width: 210px;
             margin-bottom: 10px;
 
         }
+        div.knop4{width: 210px;
+            border: 2px double rgb(199, 199, 199);
+            vertical-align:  top;
+            padding:9px;
+            margin-bottom: 10px;
+            display: inline-block;
+            }
 
 /*styleguide kleurvlakken*/
 div.kleur1{ width: 120px;
