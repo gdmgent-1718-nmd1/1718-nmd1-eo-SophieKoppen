@@ -12,7 +12,9 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    width: 200px;
+    max-width: 100%; 
+    /* Afbeeldingen responsive maken */
 }
 
 /* Voeg jouw css hieraan toe */
@@ -70,7 +72,8 @@ div.knop2{width: 210px;
         border: 2px double rgb(199, 199, 199);
         vertical-align:  top;
         padding:9px;
-        display: inline-block; }
+        display: inline-block; 
+        margin-bottom: 10px;}
 
         button.btnnavigatie{border:none;
             background-color: #000000;
