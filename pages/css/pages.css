@@ -73,25 +73,27 @@ div.knop2{width: 210px;
         display: inline-block; }
 
         button.btnnavigatie{border:none;
-            background-color: white;
-            color: black;
+            background-color: #000000;
+            color: #FFFFFF;
             padding: 0px 0px 8px 0px;
             font-size: 16px;
             cursor: pointer;
             margin: 15px 0px 19px 5px;}
         
         button.btnnavigatie:hover{
-            background-color: white;
-            color:black;
+            background-color: #000000;
+            color:#FFFFFF;
             padding: 0px 0px 8px 0px;
             font-size: 16px;
             margin-bottom: 17px;
-            border-bottom:2px solid black;
+            border-bottom:2px solid #FFFFFF;
            
             }
         
         div.knop3{width: 210px;
             border: 2px double rgb(199, 199, 199);
+            color: #FFFFFF;
+            background-color: #000000;
             vertical-align:  top;
             padding:9px;
             margin-bottom: 10px;
