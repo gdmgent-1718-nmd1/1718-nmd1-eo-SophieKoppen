@@ -76,19 +76,25 @@ div.knop2{width: 210px;
         display: inline-block; 
         margin-bottom: 10px;}
 
-        button.btnnavigatie{border:none;
+        button.btnnavigatie{font-family: 'Helvetica Neue' ,Arial,  sans-serif;
+            font-stretch: condensed;
+            font-style: bold;
+            border:none;
             background-color: #000000;
             color: #FFFFFF;
             padding: 0px 0px 8px 0px;
-            font-size: 16px;
+            font-size: 20px;
             cursor: pointer;
             margin: 15px 0px 19px 5px;}
         
         button.btnnavigatie:hover{
+            font-family: 'Helvetica Neue' ,Arial,  sans-serif;
+            font-stretch: condensed;
+            font-style: bold;
             background-color: #000000;
             color:#FFFFFF;
             padding: 0px 0px 8px 0px;
-            font-size: 16px;
+            font-size: 20px;
             margin-bottom: 17px;
             border-bottom:2px solid #FFFFFF;
            
@@ -121,23 +127,21 @@ div.knop2{width: 210px;
             display: inline-block;
             }
    
-            div.knop5{width: 210px;
-                border: 2px double rgb(199, 199, 199);
-                vertical-align:  top;
-                padding:9px;
-                margin-bottom: 10px;
-                display: inline-block;
-                }
-            button.btnfb{background-color: #881F1F;
-            border-radius: 50%;
-            border:none;
-            cursor: pointer;
-        width:200px;}
-
+  
+/*styleguide iconen*/
+div.icoon{width: 310px;
+    border: 2px double rgb(199, 199, 199);
+    vertical-align:  top;
+    padding:9px;
+    margin-bottom: 10px;
+    display: inline-block;}
         .fa {
-            padding: 10px;
-            width: 60px;
-            height: 60px;
+            background: #676767;
+            color: white;
+            margin: 10px;
+            padding: 15px;
+            width: 50px;
+            height: 50px;
             text-align: center;
             text-decoration: none;
             border-radius: 50%;
@@ -150,10 +154,9 @@ div.knop2{width: 210px;
               display:inline-block;
           }
           
-          .fa-facebook {
-            background: #000000;
-            color: white;
-            margin: 10px;}
+         
+
+
 /*styleguide kleurvlakken*/
 div.kleur1{ width: 120px;
 height: 120px;
@@ -189,4 +192,7 @@ display:inline-block;
 }
 
 /*styleguide tekst*/
-
+h3.titel{font-family: 'Helvetica Neue' ,Arial,  sans-serif;
+    font-stretch: condensed;
+    font-style: bold;
+    font-size: 30px;}
