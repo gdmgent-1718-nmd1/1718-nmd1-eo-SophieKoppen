@@ -120,6 +120,14 @@ div.knop2{width: 210px;
             margin-bottom: 10px;
 
         }
+        button.btnkopen:hover{border: 2px solid #924131;
+            background-color: #924131;
+            color: #FFFFFF;
+            padding: 14px 28px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-bottom: 10px;}
+
         div.knop4{width: 210px;
             border: 2px double rgb(199, 199, 199);
             vertical-align:  top;
