@@ -1,5 +1,5 @@
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,Raleway;
     font-weight: 400;
     letter-spacing: -.022em;
     font-synthesis: none;
@@ -36,14 +36,16 @@ button.btntickets{border: 2px solid black;
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
-    margin-bottom: 10px;}
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue'}
 
 button.btntickets:hover{border: 2px solid black;
     background-color: #000000;
     color: #FFFFFF;
     padding: 14px 28px;
     font-size: 16px;
-    margin-bottom: 10px;}
+    margin-bottom: 10px;
+    font-family: 'Helvetica Neue'}
 
 div.knop{width: 210px;
     border: 2px double rgb(199, 199, 199);
@@ -60,7 +62,8 @@ button.btnieuwsbrief{border: 2px solid #D35E46;
         font-size: 16px;
         cursor: pointer;
         margin-bottom: 10px;
-    border-radius: 20px;}
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;}
 
 button.btnieuwsbrief:hover{border: 2px solid #924131;
         background-color: #924131;
@@ -68,7 +71,8 @@ button.btnieuwsbrief:hover{border: 2px solid #924131;
         padding: 14px 28px;
         font-size: 16px;
         margin-bottom: 10px;
-    border-radius: 20px;}
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;}
 
 div.knop2{width: 210px;
         border: 2px double rgb(199, 199, 199);
@@ -115,18 +119,20 @@ div.knop2{width: 210px;
             background-color: #D35E46;
             color: #FFFFFF;
             padding: 14px 28px;
-            font-size: 16px;
+            font-size: 25px;
             cursor: pointer;
-            margin-bottom: 10px;
+            
+            font-family: 'Raleway', sans-serif;
 
         }
         button.btnkopen:hover{border: 2px solid #924131;
             background-color: #924131;
             color: #FFFFFF;
             padding: 14px 28px;
-            font-size: 16px;
+            font-size: 25px;
             cursor: pointer;
-            margin-bottom: 10px;}
+            
+            font-family: 'Raleway', sans-serif;}
 
         div.knop4{width: 210px;
             border: 2px double rgb(199, 199, 199);
@@ -222,3 +228,4 @@ h3.titel{font-family: 'Helvetica Neue' ,Arial,  sans-serif;
     font-stretch: condensed;
     font-style: bold;
     font-size: 30px;}
+h2{text-decoration: underline;}
