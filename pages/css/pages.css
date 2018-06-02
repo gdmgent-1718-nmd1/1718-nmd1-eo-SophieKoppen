@@ -86,7 +86,7 @@ div.knop2{width: 210px;
             padding: 0px 0px 8px 0px;
             font-size: 20px;
             cursor: pointer;
-            margin: 15px 0px 19px 5px;}
+            margin: 15px 0px 16px 5px;}
         
         button.btnnavigatie:hover{
             font-family: 'Helvetica Neue' ,Arial,  sans-serif;
@@ -96,7 +96,7 @@ div.knop2{width: 210px;
             color:#FFFFFF;
             padding: 0px 0px 8px 0px;
             font-size: 20px;
-            margin-bottom: 17px;
+            margin-bottom: 14px;
             border-bottom:2px solid #FFFFFF;
            
             }
@@ -127,7 +127,24 @@ div.knop2{width: 210px;
             margin-bottom: 10px;
             display: inline-block;
             }
-   
+        div.knop5{width: 210px;
+            border: 2px double rgb(199, 199, 199);
+            vertical-align:  top;
+            padding:9px;
+            margin-bottom: 10px;
+            display: inline-block;
+            }
+            button.btndriehoek{
+                border-radius: 50%;
+                border: 2px solid #B7B7B7;
+                background-color: #313131;
+                color: #FFFFFF;
+                font-size: 16px;
+                cursor: pointer;
+                margin-bottom: 30px;
+                width: 30px;
+                padding-left:7px;
+            }
   
 /*styleguide iconen*/
 div.icoon{width: 310px;
